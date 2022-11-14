@@ -1,0 +1,12 @@
+{
+    "name": "helsingborg-stad/s3-uploads-custom-endpoint",
+    "type": "wordpress-muplugin", 
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joel Bernerman",
+            "email": "joel.bernerman@helsingborg.se"
+        }
+    ],
+    "require": {}
+}
